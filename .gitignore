@@ -1,0 +1,11 @@
+# Mac OS (Fichiers système inutiles)
+.DS_Store
+
+# Python (Fichiers compilés inutiles)
+__pycache__/
+*.py[cod]
+
+# Environnement virtuel (Trop lourd, ne jamais envoyer sur GitHub)
+.venv/
+venv/
+env/
